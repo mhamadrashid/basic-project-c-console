@@ -1,5 +1,7 @@
-# basic-project-c#-console
-this repository for all project c# console
+# for any question about this projects you can tell me
+Telegram : @m0h4m4d9
+
+instagram : muhamad__rashid
 # Workflow: Create Console Application
 goto Microsoft Visual Studio
 
@@ -10,7 +12,7 @@ STEP 2
 STEP 3 
 ![p3](https://user-images.githubusercontent.com/82722647/158162988-f45f91f9-307d-45df-af3c-0260ebab001b.JPG)
 # how to use this project ? 
-STEP 1 
+STEP 1: 
 GOTO LOCATION FILE YOUR PROJECT IN YOUR COMPUTER 
 
 
@@ -21,7 +23,8 @@ STEP 3
 ![P5](https://user-images.githubusercontent.com/82722647/158164779-c582fc70-90c4-49bb-85da-c836b4a8dbe1.JPG)
 
 
-STEP 4 
+STEP 4 :
+
 COPY MY PROJECT FILE (example )  minucaffe.CS   
 
 and
