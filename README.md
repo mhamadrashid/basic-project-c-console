@@ -4,7 +4,7 @@ Telegram : @m0h4m4d9
 instagram : muhamad__rashid
 # for download visual stodio  [click here](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2040&passive=false&tailored=.net) 
 
-# Workflow: Create Console Application
+# Workflow: Create Console Project
 goto Microsoft Visual Studio
 
 STEP 1 
@@ -27,7 +27,7 @@ STEP 3
 
 STEP 4 :
 
-COPY MY PROJECT FILE (example )  program.CS   
+Download MY PROJECT FILE  ( program.CS )  
 
 and
 
